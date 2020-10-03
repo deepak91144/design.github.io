@@ -181,6 +181,10 @@ span.joy {
 	justify-content: center;
 	align-items: center;
 }
+.menu-icon .mobile-menu ul li a {
+	color: white;
+	text-decoration: none;
+}
 .deepak {
 	transform: translateX(0px) !important;
 }
